@@ -1,3 +1,4 @@
+@OPEN
 Feature: Remote Start Vehicle Status
 
   As a User, I want to receive a status response after my Remote Start Request has been submitted.

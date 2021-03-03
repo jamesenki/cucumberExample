@@ -18,7 +18,7 @@ Feature: Remote Doors
       | LOCK      | SUCCESS_CONTINUE |
       | UNLOCK    | SUCCESS_CONTINUE |
 
-  @ORPHAN
+
   Scenario Outline: Remote Door Operation from Call Center
      Given the User has Requested a Call Center Agent To "<Operation>" their Vehicle
         Given the User has supplied a PIN to Agent

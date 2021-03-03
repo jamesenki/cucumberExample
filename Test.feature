@@ -1,1 +1,3 @@
-Scenario: Test the Things
+Feature: Test the Things
+
+Scenario: Test the Feature File
